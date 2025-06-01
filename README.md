@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Rohit Rishi</h1>
-<h3 align="center">A passionate Full Stack Web Developer, An Open Source Contributor and A Crazy person from India</h3>
+<h3 align="center">A passionate Flutter Developer, An Open Source Contributor and A Crazy person from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=robinrishi21&label=Profile%20views&color=0e75b6&style=flat" alt="robinrishi21" /> </p>
 
-- 🌱 I’m currently learning **React, node**
+- 🌱 I’m currently learning **Flutter, Java**
 
 - 💬 Ask me about **Java, Javascript & SQL**
 
